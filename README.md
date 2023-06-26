@@ -11,6 +11,7 @@
 ## step 3
 * Go to the project path on terminal or cmd
 * and execute this commands
-**python manage.py migrate
-**python manage.py runserver
-**python manage.py createsuperuser
+  
+* *python manage.py migrate
+* *python manage.py runserver
+* *python manage.py createsuperuser
